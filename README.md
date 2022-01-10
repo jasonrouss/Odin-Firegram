@@ -1,7 +1,7 @@
-#Odin-Firegram
+# Odin-Firegram
 Part of The Odin Project curriclum JavaScript section
 
-Key features:
+# Key features:
 
 ### Mobile Responsive 
 
